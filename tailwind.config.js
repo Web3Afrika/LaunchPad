@@ -10,7 +10,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        specialelite: 'SpecialElite, cursive'
+        specialelite: 'specialelite, cursive'
       }
     },
   },

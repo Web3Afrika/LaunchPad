@@ -5,8 +5,8 @@
 
 @layer base {
     @font-face {
-        font-family:'SpecialElite';
-        src: url('/fonts/specialelite-Regular.woff2') format('woff2');
+        font-family:'specialelite';
+        src: url('/fonts/SpecialElite-Regular.woff2') format('woff2');
         font-weight: normal;
         font-display: swap;
         font-style: normal;
